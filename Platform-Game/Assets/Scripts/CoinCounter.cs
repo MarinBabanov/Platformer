@@ -9,4 +9,8 @@ public class CoinCounter : MonoBehaviour
         ScoreTextScript.coinAmount += 1;
         Destroy(gameObject);
     }
+
+
+
+
 }
