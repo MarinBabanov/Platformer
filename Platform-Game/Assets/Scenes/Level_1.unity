@@ -494,11 +494,11 @@ RectTransform:
   m_Father: {fileID: 1799260407}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 79, y: 337.92}
-  m_SizeDelta: {x: 121.48, y: 68.17}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 79.7, y: 0}
+  m_SizeDelta: {x: 121.48, y: 68.16998}
+  m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &101125166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3847,7 +3847,7 @@ TrailRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 0.8078432, g: 0.37254903, b: 0.011764707, a: 1}
+      key0: {r: 1, g: 0.53328043, b: 0.37254906, a: 1}
       key1: {r: 1, g: 1, b: 1, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
